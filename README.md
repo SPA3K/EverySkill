@@ -13,7 +13,7 @@
 
 现在，**每个人**都可以拥有。
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/everyskill)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/SPA3K/EverySkill)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Standalone](https://img.shields.io/badge/standalone-HTML-orange.svg)](skill-preview-tool.html)
 
@@ -118,10 +118,10 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/everyskill.git
+git clone https://github.com/SPA3K/EverySkill.git
 
 # 或直接下载单文件（推荐）
-wget https://raw.githubusercontent.com/yourusername/everyskill/main/everyskill.html
+wget https://raw.githubusercontent.com/SPA3K/EverySkill/main/everyskill.html
 ```
 
 ### 2️⃣ 打开
@@ -473,6 +473,6 @@ MIT License - 自由使用、修改、分发
 
 Made with ❤️ for everyone | 让 AI 能力真正普惠
 
-[⭐ Star](https://github.com/yourusername/everyskill) | [🐛 Report Bug](https://github.com/yourusername/everyskill/issues) | [💡 Request Feature](https://github.com/yourusername/everyskill/issues)
+[⭐ Star](https://github.com/SPA3K/EverySkill) | [🐛 Report Bug](https://github.com/SPA3K/EverySkill/issues) | [💡 Request Feature](https://github.com/SPA3K/EverySkill/issues)
 
 </div>
